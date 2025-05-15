@@ -1,0 +1,1557 @@
+{
+    "routes": [
+        {
+            "route": [
+                {
+                    "distance": null,
+                    "id": null,
+                    "isleft": true,
+                    "angle": 131.90659034237754,
+                    "latitude": 37.527131,
+                    "longitude": 126.93301
+                },
+                {
+                    "distance": null,
+                    "id": 5841489471,
+                    "isleft": true,
+                    "angle": 74.98597138172413,
+                    "latitude": 37.5271486,
+                    "longitude": 126.9331131
+                },
+                {
+                    "distance": null,
+                    "id": 5841489469,
+                    "isleft": false,
+                    "angle": 73.89362224602857,
+                    "latitude": 37.5274026,
+                    "longitude": 126.9327927
+                },
+                {
+                    "distance": null,
+                    "id": 5841489469,
+                    "isleft": true,
+                    "angle": 75.8011679843632,
+                    "latitude": 37.5271246,
+                    "longitude": 126.9324181
+                },
+                {
+                    "distance": null,
+                    "id": 5841489468,
+                    "isleft": false,
+                    "angle": 75.19342129262205,
+                    "latitude": 37.5272201,
+                    "longitude": 126.9322928
+                },
+                {
+                    "distance": null,
+                    "id": 5841489456,
+                    "isleft": false,
+                    "angle": 0.002768448695241999,
+                    "latitude": 37.5272104,
+                    "longitude": 126.9322806
+                },
+                {
+                    "distance": null,
+                    "id": 5841489456,
+                    "isleft": true,
+                    "angle": 2.326182820606639,
+                    "latitude": 37.5273941,
+                    "longitude": 126.9320342
+                },
+                {
+                    "distance": null,
+                    "id": 5988338901,
+                    "isleft": false,
+                    "angle": 5.087510763929635,
+                    "latitude": 37.5276022,
+                    "longitude": 126.9317551
+                },
+                {
+                    "distance": null,
+                    "id": 5912764334,
+                    "isleft": false,
+                    "angle": 0.6688459349304475,
+                    "latitude": 37.527737,
+                    "longitude": 126.9315581
+                },
+                {
+                    "distance": null,
+                    "id": 5912764334,
+                    "isleft": false,
+                    "angle": 22.464641753764955,
+                    "latitude": 37.5285248,
+                    "longitude": 126.9306014
+                },
+                {
+                    "distance": null,
+                    "id": 5912764334,
+                    "isleft": false,
+                    "angle": 18.60522101690035,
+                    "latitude": 37.5287093,
+                    "longitude": 126.9303826
+                },
+                {
+                    "distance": null,
+                    "id": 5912764334,
+                    "isleft": false,
+                    "angle": 5.587227790248813,
+                    "latitude": 37.5288461,
+                    "longitude": 126.9303117
+                },
+                {
+                    "distance": null,
+                    "id": 5912764334,
+                    "isleft": false,
+                    "angle": 14.684634330511999,
+                    "latitude": 37.528989,
+                    "longitude": 126.9302896
+                },
+                {
+                    "distance": null,
+                    "id": 5912764334,
+                    "isleft": true,
+                    "angle": 77.8270927855407,
+                    "latitude": 37.529198,
+                    "longitude": 126.9302779
+                },
+                {
+                    "distance": null,
+                    "id": 5209599773,
+                    "isleft": true,
+                    "angle": 6.812849142004491,
+                    "latitude": 37.5292561,
+                    "longitude": 126.9302897
+                },
+                {
+                    "distance": null,
+                    "id": 4677565759,
+                    "isleft": false,
+                    "angle": 83.88313726841199,
+                    "latitude": 37.529278,
+                    "longitude": 126.9302397
+                },
+                {
+                    "distance": null,
+                    "id": 5209609738,
+                    "isleft": true,
+                    "angle": 61.08356252240201,
+                    "latitude": 37.5290823,
+                    "longitude": 126.9290494
+                },
+                {
+                    "distance": null,
+                    "id": 2251419622,
+                    "isleft": false,
+                    "angle": 30.08977569151823,
+                    "latitude": 37.5292089,
+                    "longitude": 126.9287831
+                },
+                {
+                    "distance": null,
+                    "id": 2251419622,
+                    "isleft": true,
+                    "angle": 6.436278735489439,
+                    "latitude": 37.5289225,
+                    "longitude": 126.9283839
+                },
+                {
+                    "distance": null,
+                    "id": 2251419622,
+                    "isleft": false,
+                    "angle": 20.41582437646898,
+                    "latitude": 37.5289063,
+                    "longitude": 126.9282177
+                },
+                {
+                    "distance": null,
+                    "id": 2251419622,
+                    "isleft": true,
+                    "angle": 86.35228138158301,
+                    "latitude": 37.5288753,
+                    "longitude": 126.9280719
+                },
+                {
+                    "distance": null,
+                    "id": 2251419626,
+                    "isleft": false,
+                    "angle": 22.956441667203205,
+                    "latitude": 37.5288879,
+                    "longitude": 126.9279867
+                },
+                {
+                    "distance": null,
+                    "id": 2251419626,
+                    "isleft": true,
+                    "angle": 0.011540100161636528,
+                    "latitude": 37.5287751,
+                    "longitude": 126.9279626
+                },
+                {
+                    "distance": null,
+                    "id": 2251419626,
+                    "isleft": false,
+                    "angle": 6.521805633372201,
+                    "latitude": 37.5286809,
+                    "longitude": 126.9278966
+                },
+                {
+                    "distance": null,
+                    "id": 2604500010,
+                    "isleft": false,
+                    "angle": 12.186396181554413,
+                    "latitude": 37.5286512,
+                    "longitude": 126.9278758
+                },
+                {
+                    "distance": null,
+                    "id": 2604500010,
+                    "isleft": false,
+                    "angle": 11.172985016986974,
+                    "latitude": 37.5285411,
+                    "longitude": 126.9277783
+                },
+                {
+                    "distance": null,
+                    "id": 2604500010,
+                    "isleft": false,
+                    "angle": 2.2388487403577577,
+                    "latitude": 37.5284527,
+                    "longitude": 126.9276579
+                },
+                {
+                    "distance": null,
+                    "id": 2604500010,
+                    "isleft": true,
+                    "angle": 11.193878122070004,
+                    "latitude": 37.528383,
+                    "longitude": 126.9275092
+                },
+                {
+                    "distance": null,
+                    "id": 2604500010,
+                    "isleft": true,
+                    "angle": 8.244353527933388,
+                    "latitude": 37.5282628,
+                    "longitude": 126.9272243
+                },
+                {
+                    "distance": null,
+                    "id": 2604500010,
+                    "isleft": true,
+                    "angle": 6.149332743788189,
+                    "latitude": 37.5281876,
+                    "longitude": 126.9271131
+                },
+                {
+                    "distance": null,
+                    "id": 2604500010,
+                    "isleft": false,
+                    "angle": 10.685527937365608,
+                    "latitude": 37.5281023,
+                    "longitude": 126.9270194
+                },
+                {
+                    "distance": null,
+                    "id": 2604500010,
+                    "isleft": false,
+                    "angle": 12.427609340175886,
+                    "latitude": 37.5277947,
+                    "longitude": 126.9267469
+                },
+                {
+                    "distance": null,
+                    "id": 2604500008,
+                    "isleft": true,
+                    "angle": 4.980202736184359,
+                    "latitude": 37.5276407,
+                    "longitude": 126.9265482
+                },
+                {
+                    "distance": null,
+                    "id": 2604500008,
+                    "isleft": true,
+                    "angle": 1.9361761342739665,
+                    "latitude": 37.5273176,
+                    "longitude": 126.9258662
+                },
+                {
+                    "distance": null,
+                    "id": 2604500005,
+                    "isleft": true,
+                    "angle": 7.234981880500619,
+                    "latitude": 37.5271611,
+                    "longitude": 126.9255987
+                },
+                {
+                    "distance": null,
+                    "id": 2604500005,
+                    "isleft": false,
+                    "angle": 17.64233063056959,
+                    "latitude": 37.5270366,
+                    "longitude": 126.9254015
+                },
+                {
+                    "distance": null,
+                    "id": 2604500005,
+                    "isleft": true,
+                    "angle": 6.59449506120772,
+                    "latitude": 37.5265926,
+                    "longitude": 126.9248629
+                },
+                {
+                    "distance": null,
+                    "id": 2604500005,
+                    "isleft": true,
+                    "angle": 113.09170951750225,
+                    "latitude": 37.5263079,
+                    "longitude": 126.9241532
+                },
+                {
+                    "distance": null,
+                    "id": 3382420795,
+                    "isleft": false,
+                    "angle": 114.1910170982994,
+                    "latitude": 37.5261682,
+                    "longitude": 126.9238954
+                },
+                {
+                    "distance": null,
+                    "id": 9323200745,
+                    "isleft": true,
+                    "angle": 109.13809676158586,
+                    "latitude": 37.5260675,
+                    "longitude": 126.9240222
+                },
+                {
+                    "distance": null,
+                    "id": 9323200751,
+                    "isleft": false,
+                    "angle": 104.02610475502472,
+                    "latitude": 37.5258749,
+                    "longitude": 126.9236499
+                },
+                {
+                    "distance": null,
+                    "id": 9323200751,
+                    "isleft": true,
+                    "angle": 102.66513372808848,
+                    "latitude": 37.5258562,
+                    "longitude": 126.9236696
+                },
+                {
+                    "distance": null,
+                    "id": 9323200752,
+                    "isleft": true,
+                    "angle": 0.01313788243516616,
+                    "latitude": 37.5246251,
+                    "longitude": 126.9217346
+                },
+                {
+                    "distance": null,
+                    "id": 9323200753,
+                    "isleft": true,
+                    "angle": 0.005067364382470204,
+                    "latitude": 37.5244721,
+                    "longitude": 126.9218883
+                },
+                {
+                    "distance": null,
+                    "id": 9323200754,
+                    "isleft": true,
+                    "angle": 75.49597811869437,
+                    "latitude": 37.5243331,
+                    "longitude": 126.922028
+                },
+                {
+                    "distance": null,
+                    "id": 9323200754,
+                    "isleft": false,
+                    "angle": 75.02138379630625,
+                    "latitude": 37.5242372,
+                    "longitude": 126.9221244
+                },
+                {
+                    "distance": null,
+                    "id": 9323200744,
+                    "isleft": true,
+                    "angle": 0.001800041372357083,
+                    "latitude": 37.5241093,
+                    "longitude": 126.9225406
+                },
+                {
+                    "distance": null,
+                    "id": 9323200743,
+                    "isleft": false,
+                    "angle": 0.0027444933335845083,
+                    "latitude": 37.5239495,
+                    "longitude": 126.9222672
+                },
+                {
+                    "distance": null,
+                    "id": 9323200726,
+                    "isleft": true,
+                    "angle": 144.92147707573812,
+                    "latitude": 37.5237182,
+                    "longitude": 126.9218715
+                },
+                {
+                    "distance": null,
+                    "id": 9323200727,
+                    "isleft": false,
+                    "angle": 145.16561177689556,
+                    "latitude": 37.523521,
+                    "longitude": 126.9215341
+                },
+                {
+                    "distance": null,
+                    "id": 2452999789,
+                    "isleft": false,
+                    "angle": 132.4128570197869,
+                    "latitude": 37.5229494,
+                    "longitude": 126.9205617
+                },
+                {
+                    "distance": null,
+                    "id": 2452999789,
+                    "isleft": false,
+                    "angle": 132.4128570197869,
+                    "latitude": 37.5221642,
+                    "longitude": 126.9213232
+                },
+                {
+                    "distance": null,
+                    "id": null,
+                    "isleft": false,
+                    "angle": 132.4128570197869,
+                    "latitude": 37.5217047,
+                    "longitude": 126.9200395
+                }
+            ],
+            "fullDistance": 1173.3730000000002
+        },
+        {
+            "route": [
+                {
+                    "distance": null,
+                    "id": null,
+                    "isleft": true,
+                    "angle": 131.90659034237754,
+                    "latitude": 37.527131,
+                    "longitude": 126.93301
+                },
+                {
+                    "distance": null,
+                    "id": 5841489471,
+                    "isleft": true,
+                    "angle": 74.98597138172413,
+                    "latitude": 37.5271486,
+                    "longitude": 126.9331131
+                },
+                {
+                    "distance": null,
+                    "id": 4684513210,
+                    "isleft": true,
+                    "angle": 77.94448740388297,
+                    "latitude": 37.5266674,
+                    "longitude": 126.9324882
+                },
+                {
+                    "distance": null,
+                    "id": 2452999827,
+                    "isleft": true,
+                    "angle": 0.004686830228088285,
+                    "latitude": 37.526767,
+                    "longitude": 126.9323914
+                },
+                {
+                    "distance": null,
+                    "id": 2452999827,
+                    "isleft": true,
+                    "angle": 0.0005103988535566263,
+                    "latitude": 37.5265003,
+                    "longitude": 126.9319667
+                },
+                {
+                    "distance": null,
+                    "id": 2452999827,
+                    "isleft": true,
+                    "angle": 0.19364151505627444,
+                    "latitude": 37.5259153,
+                    "longitude": 126.9310353
+                },
+                {
+                    "distance": null,
+                    "id": 2452999821,
+                    "isleft": true,
+                    "angle": 0.001056770035281212,
+                    "latitude": 37.5253909,
+                    "longitude": 126.9302004
+                },
+                {
+                    "distance": null,
+                    "id": 2452999821,
+                    "isleft": false,
+                    "angle": 0.17009187419336785,
+                    "latitude": 37.5252382,
+                    "longitude": 126.9299591
+                },
+                {
+                    "distance": null,
+                    "id": 8461612250,
+                    "isleft": true,
+                    "angle": 0.0051083524033047395,
+                    "latitude": 37.5250991,
+                    "longitude": 126.9297393
+                },
+                {
+                    "distance": null,
+                    "id": 8461612250,
+                    "isleft": true,
+                    "angle": 0.00547870726722303,
+                    "latitude": 37.5247591,
+                    "longitude": 126.9291985
+                },
+                {
+                    "distance": null,
+                    "id": 1887976782,
+                    "isleft": true,
+                    "angle": 0.05098661249726705,
+                    "latitude": 37.5245946,
+                    "longitude": 126.9289369
+                },
+                {
+                    "distance": null,
+                    "id": 8461612254,
+                    "isleft": false,
+                    "angle": 0.8266575660191707,
+                    "latitude": 37.5243283,
+                    "longitude": 126.9285135
+                },
+                {
+                    "distance": null,
+                    "id": 2452999810,
+                    "isleft": true,
+                    "angle": 0.6012849247833446,
+                    "latitude": 37.5240904,
+                    "longitude": 126.928136
+                },
+                {
+                    "distance": null,
+                    "id": 6110740964,
+                    "isleft": true,
+                    "angle": 0.042264838514827804,
+                    "latitude": 37.5236486,
+                    "longitude": 126.927412
+                },
+                {
+                    "distance": null,
+                    "id": 6110740964,
+                    "isleft": false,
+                    "angle": 0.03547615592429766,
+                    "latitude": 37.5235935,
+                    "longitude": 126.9273238
+                },
+                {
+                    "distance": null,
+                    "id": 6110740964,
+                    "isleft": true,
+                    "angle": 0.01046105901259149,
+                    "latitude": 37.5235303,
+                    "longitude": 126.9272228
+                },
+                {
+                    "distance": null,
+                    "id": 6110740964,
+                    "isleft": false,
+                    "angle": 0.5098777558027984,
+                    "latitude": 37.5233987,
+                    "longitude": 126.9270122
+                },
+                {
+                    "distance": null,
+                    "id": 2452999796,
+                    "isleft": true,
+                    "angle": 0.6361051743609187,
+                    "latitude": 37.5231097,
+                    "longitude": 126.9265499
+                },
+                {
+                    "distance": null,
+                    "id": 2452999793,
+                    "isleft": false,
+                    "angle": 0.3459413638119666,
+                    "latitude": 37.5230065,
+                    "longitude": 126.9263815
+                },
+                {
+                    "distance": null,
+                    "id": 8461590370,
+                    "isleft": false,
+                    "angle": 27.35016500860622,
+                    "latitude": 37.5225236,
+                    "longitude": 126.9256128
+                },
+                {
+                    "distance": null,
+                    "id": 8461590366,
+                    "isleft": false,
+                    "angle": 7.923577557416519,
+                    "latitude": 37.5219887,
+                    "longitude": 126.9247498
+                },
+                {
+                    "distance": null,
+                    "id": 8461590366,
+                    "isleft": false,
+                    "angle": 4.902550183098917,
+                    "latitude": 37.521963,
+                    "longitude": 126.9244189
+                },
+                {
+                    "distance": null,
+                    "id": 9242575506,
+                    "isleft": false,
+                    "angle": 7.846358382297197,
+                    "latitude": 37.5215323,
+                    "longitude": 126.9237668
+                },
+                {
+                    "distance": null,
+                    "id": 9242575506,
+                    "isleft": false,
+                    "angle": 27.224736141126854,
+                    "latitude": 37.5214255,
+                    "longitude": 126.9237224
+                },
+                {
+                    "distance": null,
+                    "id": 4744225596,
+                    "isleft": false,
+                    "angle": 77.99860325201672,
+                    "latitude": 37.5212976,
+                    "longitude": 126.9236473
+                },
+                {
+                    "distance": null,
+                    "id": 2452999789,
+                    "isleft": true,
+                    "angle": 47.3531074194085,
+                    "latitude": 37.5207199,
+                    "longitude": 126.9227354
+                },
+                {
+                    "distance": null,
+                    "id": 2452999789,
+                    "isleft": false,
+                    "angle": 132.4128570197869,
+                    "latitude": 37.5221642,
+                    "longitude": 126.9213232
+                },
+                {
+                    "distance": null,
+                    "id": null,
+                    "isleft": false,
+                    "angle": 132.4128570197869,
+                    "latitude": 37.5217047,
+                    "longitude": 126.9200395
+                }
+            ],
+            "fullDistance": 883.484
+        },
+        {
+            "route": [
+                {
+                    "distance": null,
+                    "id": null,
+                    "isleft": true,
+                    "angle": 131.90659034237754,
+                    "latitude": 37.527131,
+                    "longitude": 126.93301
+                },
+                {
+                    "distance": null,
+                    "id": 5841489471,
+                    "isleft": true,
+                    "angle": 74.98597138172413,
+                    "latitude": 37.5271486,
+                    "longitude": 126.9331131
+                },
+                {
+                    "distance": null,
+                    "id": 5841489469,
+                    "isleft": false,
+                    "angle": 73.89362224602857,
+                    "latitude": 37.5274026,
+                    "longitude": 126.9327927
+                },
+                {
+                    "distance": null,
+                    "id": 5841489469,
+                    "isleft": true,
+                    "angle": 75.8011679843632,
+                    "latitude": 37.5271246,
+                    "longitude": 126.9324181
+                },
+                {
+                    "distance": null,
+                    "id": 5841489468,
+                    "isleft": false,
+                    "angle": 75.19342129262205,
+                    "latitude": 37.5272201,
+                    "longitude": 126.9322928
+                },
+                {
+                    "distance": null,
+                    "id": 5841489456,
+                    "isleft": false,
+                    "angle": 0.002768448695241999,
+                    "latitude": 37.5272104,
+                    "longitude": 126.9322806
+                },
+                {
+                    "distance": null,
+                    "id": 5841489456,
+                    "isleft": true,
+                    "angle": 2.326182820606639,
+                    "latitude": 37.5273941,
+                    "longitude": 126.9320342
+                },
+                {
+                    "distance": null,
+                    "id": 5988338901,
+                    "isleft": false,
+                    "angle": 5.087510763929635,
+                    "latitude": 37.5276022,
+                    "longitude": 126.9317551
+                },
+                {
+                    "distance": null,
+                    "id": 5912764334,
+                    "isleft": false,
+                    "angle": 0.6688459349304475,
+                    "latitude": 37.527737,
+                    "longitude": 126.9315581
+                },
+                {
+                    "distance": null,
+                    "id": 5912764334,
+                    "isleft": false,
+                    "angle": 22.464641753764955,
+                    "latitude": 37.5285248,
+                    "longitude": 126.9306014
+                },
+                {
+                    "distance": null,
+                    "id": 5912764334,
+                    "isleft": false,
+                    "angle": 18.60522101690035,
+                    "latitude": 37.5287093,
+                    "longitude": 126.9303826
+                },
+                {
+                    "distance": null,
+                    "id": 5912764334,
+                    "isleft": false,
+                    "angle": 5.587227790248813,
+                    "latitude": 37.5288461,
+                    "longitude": 126.9303117
+                },
+                {
+                    "distance": null,
+                    "id": 5912764334,
+                    "isleft": false,
+                    "angle": 14.684634330511999,
+                    "latitude": 37.528989,
+                    "longitude": 126.9302896
+                },
+                {
+                    "distance": null,
+                    "id": 5912764334,
+                    "isleft": true,
+                    "angle": 77.8270927855407,
+                    "latitude": 37.529198,
+                    "longitude": 126.9302779
+                },
+                {
+                    "distance": null,
+                    "id": 5209599773,
+                    "isleft": true,
+                    "angle": 6.812849142004491,
+                    "latitude": 37.5292561,
+                    "longitude": 126.9302897
+                },
+                {
+                    "distance": null,
+                    "id": 4677565759,
+                    "isleft": false,
+                    "angle": 83.88313726841199,
+                    "latitude": 37.529278,
+                    "longitude": 126.9302397
+                },
+                {
+                    "distance": null,
+                    "id": 5209609738,
+                    "isleft": true,
+                    "angle": 61.08356252240201,
+                    "latitude": 37.5290823,
+                    "longitude": 126.9290494
+                },
+                {
+                    "distance": null,
+                    "id": 2251419622,
+                    "isleft": false,
+                    "angle": 30.08977569151823,
+                    "latitude": 37.5292089,
+                    "longitude": 126.9287831
+                },
+                {
+                    "distance": null,
+                    "id": 2251419622,
+                    "isleft": true,
+                    "angle": 6.436278735489439,
+                    "latitude": 37.5289225,
+                    "longitude": 126.9283839
+                },
+                {
+                    "distance": null,
+                    "id": 2251419622,
+                    "isleft": false,
+                    "angle": 20.41582437646898,
+                    "latitude": 37.5289063,
+                    "longitude": 126.9282177
+                },
+                {
+                    "distance": null,
+                    "id": 2251419622,
+                    "isleft": true,
+                    "angle": 86.35228138158301,
+                    "latitude": 37.5288753,
+                    "longitude": 126.9280719
+                },
+                {
+                    "distance": null,
+                    "id": 2251419626,
+                    "isleft": false,
+                    "angle": 22.956441667203205,
+                    "latitude": 37.5288879,
+                    "longitude": 126.9279867
+                },
+                {
+                    "distance": null,
+                    "id": 2251419626,
+                    "isleft": true,
+                    "angle": 0.011540100161636528,
+                    "latitude": 37.5287751,
+                    "longitude": 126.9279626
+                },
+                {
+                    "distance": null,
+                    "id": 2251419626,
+                    "isleft": false,
+                    "angle": 6.521805633372201,
+                    "latitude": 37.5286809,
+                    "longitude": 126.9278966
+                },
+                {
+                    "distance": null,
+                    "id": 2604500010,
+                    "isleft": false,
+                    "angle": 12.186396181554413,
+                    "latitude": 37.5286512,
+                    "longitude": 126.9278758
+                },
+                {
+                    "distance": null,
+                    "id": 2604500010,
+                    "isleft": false,
+                    "angle": 11.172985016986974,
+                    "latitude": 37.5285411,
+                    "longitude": 126.9277783
+                },
+                {
+                    "distance": null,
+                    "id": 2604500010,
+                    "isleft": false,
+                    "angle": 2.2388487403577577,
+                    "latitude": 37.5284527,
+                    "longitude": 126.9276579
+                },
+                {
+                    "distance": null,
+                    "id": 2604500010,
+                    "isleft": true,
+                    "angle": 11.193878122070004,
+                    "latitude": 37.528383,
+                    "longitude": 126.9275092
+                },
+                {
+                    "distance": null,
+                    "id": 2604500010,
+                    "isleft": true,
+                    "angle": 8.244353527933388,
+                    "latitude": 37.5282628,
+                    "longitude": 126.9272243
+                },
+                {
+                    "distance": null,
+                    "id": 2604500010,
+                    "isleft": true,
+                    "angle": 6.149332743788189,
+                    "latitude": 37.5281876,
+                    "longitude": 126.9271131
+                },
+                {
+                    "distance": null,
+                    "id": 2604500010,
+                    "isleft": false,
+                    "angle": 10.685527937365608,
+                    "latitude": 37.5281023,
+                    "longitude": 126.9270194
+                },
+                {
+                    "distance": null,
+                    "id": 2604500010,
+                    "isleft": false,
+                    "angle": 12.427609340175886,
+                    "latitude": 37.5277947,
+                    "longitude": 126.9267469
+                },
+                {
+                    "distance": null,
+                    "id": 2604500008,
+                    "isleft": true,
+                    "angle": 4.980202736184359,
+                    "latitude": 37.5276407,
+                    "longitude": 126.9265482
+                },
+                {
+                    "distance": null,
+                    "id": 2604500008,
+                    "isleft": true,
+                    "angle": 1.9361761342739665,
+                    "latitude": 37.5273176,
+                    "longitude": 126.9258662
+                },
+                {
+                    "distance": null,
+                    "id": 2604500005,
+                    "isleft": true,
+                    "angle": 7.234981880500619,
+                    "latitude": 37.5271611,
+                    "longitude": 126.9255987
+                },
+                {
+                    "distance": null,
+                    "id": 2604500005,
+                    "isleft": false,
+                    "angle": 17.64233063056959,
+                    "latitude": 37.5270366,
+                    "longitude": 126.9254015
+                },
+                {
+                    "distance": null,
+                    "id": 2604500005,
+                    "isleft": true,
+                    "angle": 6.59449506120772,
+                    "latitude": 37.5265926,
+                    "longitude": 126.9248629
+                },
+                {
+                    "distance": null,
+                    "id": 2604500005,
+                    "isleft": true,
+                    "angle": 113.09170951750225,
+                    "latitude": 37.5263079,
+                    "longitude": 126.9241532
+                },
+                {
+                    "distance": null,
+                    "id": 3382420795,
+                    "isleft": false,
+                    "angle": 114.1910170982994,
+                    "latitude": 37.5261682,
+                    "longitude": 126.9238954
+                },
+                {
+                    "distance": null,
+                    "id": 9323200745,
+                    "isleft": true,
+                    "angle": 109.13809676158586,
+                    "latitude": 37.5260675,
+                    "longitude": 126.9240222
+                },
+                {
+                    "distance": null,
+                    "id": 9323200751,
+                    "isleft": false,
+                    "angle": 104.02610475502472,
+                    "latitude": 37.5258749,
+                    "longitude": 126.9236499
+                },
+                {
+                    "distance": null,
+                    "id": 9323200751,
+                    "isleft": true,
+                    "angle": 102.66513372808848,
+                    "latitude": 37.5258562,
+                    "longitude": 126.9236696
+                },
+                {
+                    "distance": null,
+                    "id": 9323200752,
+                    "isleft": true,
+                    "angle": 0.01313788243516616,
+                    "latitude": 37.5246251,
+                    "longitude": 126.9217346
+                },
+                {
+                    "distance": null,
+                    "id": 9323200753,
+                    "isleft": true,
+                    "angle": 0.005067364382470204,
+                    "latitude": 37.5244721,
+                    "longitude": 126.9218883
+                },
+                {
+                    "distance": null,
+                    "id": 9323200754,
+                    "isleft": true,
+                    "angle": 75.49597811869437,
+                    "latitude": 37.5243331,
+                    "longitude": 126.922028
+                },
+                {
+                    "distance": null,
+                    "id": 9323200754,
+                    "isleft": false,
+                    "angle": 75.02138379630625,
+                    "latitude": 37.5242372,
+                    "longitude": 126.9221244
+                },
+                {
+                    "distance": null,
+                    "id": 9323200744,
+                    "isleft": true,
+                    "angle": 0.001800041372357083,
+                    "latitude": 37.5241093,
+                    "longitude": 126.9225406
+                },
+                {
+                    "distance": null,
+                    "id": 9323200743,
+                    "isleft": false,
+                    "angle": 0.0027444933335845083,
+                    "latitude": 37.5239495,
+                    "longitude": 126.9222672
+                },
+                {
+                    "distance": null,
+                    "id": 9323200726,
+                    "isleft": true,
+                    "angle": 144.92147707573812,
+                    "latitude": 37.5237182,
+                    "longitude": 126.9218715
+                },
+                {
+                    "distance": null,
+                    "id": 9323200727,
+                    "isleft": false,
+                    "angle": 145.16561177689556,
+                    "latitude": 37.523521,
+                    "longitude": 126.9215341
+                },
+                {
+                    "distance": null,
+                    "id": 2452999789,
+                    "isleft": false,
+                    "angle": 132.4128570197869,
+                    "latitude": 37.5229494,
+                    "longitude": 126.9205617
+                },
+                {
+                    "distance": null,
+                    "id": 2452999789,
+                    "isleft": false,
+                    "angle": 132.4128570197869,
+                    "latitude": 37.5221642,
+                    "longitude": 126.9213232
+                },
+                {
+                    "distance": null,
+                    "id": null,
+                    "isleft": null,
+                    "angle": 132.4128570197869,
+                    "latitude": 37.5217047,
+                    "longitude": 126.9200395
+                }
+            ],
+            "fullDistance": 1173.3730000000002
+        },
+        {
+            "route": [
+                {
+                    "distance": null,
+                    "id": null,
+                    "isleft": true,
+                    "angle": 131.90659034237754,
+                    "latitude": 37.527131,
+                    "longitude": 126.93301
+                },
+                {
+                    "distance": null,
+                    "id": 5841489471,
+                    "isleft": true,
+                    "angle": 74.98597138172413,
+                    "latitude": 37.5271486,
+                    "longitude": 126.9331131
+                },
+                {
+                    "distance": null,
+                    "id": 4684513210,
+                    "isleft": true,
+                    "angle": 77.94448740388297,
+                    "latitude": 37.5266674,
+                    "longitude": 126.9324882
+                },
+                {
+                    "distance": null,
+                    "id": 2452999827,
+                    "isleft": true,
+                    "angle": 0.004686830228088285,
+                    "latitude": 37.526767,
+                    "longitude": 126.9323914
+                },
+                {
+                    "distance": null,
+                    "id": 2452999827,
+                    "isleft": true,
+                    "angle": 0.0005103988535566263,
+                    "latitude": 37.5265003,
+                    "longitude": 126.9319667
+                },
+                {
+                    "distance": null,
+                    "id": 2452999827,
+                    "isleft": true,
+                    "angle": 0.19364151505627444,
+                    "latitude": 37.5259153,
+                    "longitude": 126.9310353
+                },
+                {
+                    "distance": null,
+                    "id": 2452999821,
+                    "isleft": true,
+                    "angle": 0.001056770035281212,
+                    "latitude": 37.5253909,
+                    "longitude": 126.9302004
+                },
+                {
+                    "distance": null,
+                    "id": 2452999821,
+                    "isleft": false,
+                    "angle": 0.17009187419336785,
+                    "latitude": 37.5252382,
+                    "longitude": 126.9299591
+                },
+                {
+                    "distance": null,
+                    "id": 8461612250,
+                    "isleft": true,
+                    "angle": 0.0051083524033047395,
+                    "latitude": 37.5250991,
+                    "longitude": 126.9297393
+                },
+                {
+                    "distance": null,
+                    "id": 8461612250,
+                    "isleft": true,
+                    "angle": 0.00547870726722303,
+                    "latitude": 37.5247591,
+                    "longitude": 126.9291985
+                },
+                {
+                    "distance": null,
+                    "id": 1887976782,
+                    "isleft": true,
+                    "angle": 0.05098661249726705,
+                    "latitude": 37.5245946,
+                    "longitude": 126.9289369
+                },
+                {
+                    "distance": null,
+                    "id": 8461612254,
+                    "isleft": false,
+                    "angle": 0.8266575660191707,
+                    "latitude": 37.5243283,
+                    "longitude": 126.9285135
+                },
+                {
+                    "distance": null,
+                    "id": 2452999810,
+                    "isleft": true,
+                    "angle": 0.6012849247833446,
+                    "latitude": 37.5240904,
+                    "longitude": 126.928136
+                },
+                {
+                    "distance": null,
+                    "id": 6110740964,
+                    "isleft": true,
+                    "angle": 0.042264838514827804,
+                    "latitude": 37.5236486,
+                    "longitude": 126.927412
+                },
+                {
+                    "distance": null,
+                    "id": 6110740964,
+                    "isleft": false,
+                    "angle": 0.03547615592429766,
+                    "latitude": 37.5235935,
+                    "longitude": 126.9273238
+                },
+                {
+                    "distance": null,
+                    "id": 6110740964,
+                    "isleft": true,
+                    "angle": 0.01046105901259149,
+                    "latitude": 37.5235303,
+                    "longitude": 126.9272228
+                },
+                {
+                    "distance": null,
+                    "id": 6110740964,
+                    "isleft": false,
+                    "angle": 0.5098777558027984,
+                    "latitude": 37.5233987,
+                    "longitude": 126.9270122
+                },
+                {
+                    "distance": null,
+                    "id": 2452999796,
+                    "isleft": true,
+                    "angle": 0.6361051743609187,
+                    "latitude": 37.5231097,
+                    "longitude": 126.9265499
+                },
+                {
+                    "distance": null,
+                    "id": 2452999793,
+                    "isleft": false,
+                    "angle": 0.3459413638119666,
+                    "latitude": 37.5230065,
+                    "longitude": 126.9263815
+                },
+                {
+                    "distance": null,
+                    "id": 8461590370,
+                    "isleft": false,
+                    "angle": 27.35016500860622,
+                    "latitude": 37.5225236,
+                    "longitude": 126.9256128
+                },
+                {
+                    "distance": null,
+                    "id": 8461590366,
+                    "isleft": false,
+                    "angle": 7.923577557416519,
+                    "latitude": 37.5219887,
+                    "longitude": 126.9247498
+                },
+                {
+                    "distance": null,
+                    "id": 8461590366,
+                    "isleft": false,
+                    "angle": 4.902550183098917,
+                    "latitude": 37.521963,
+                    "longitude": 126.9244189
+                },
+                {
+                    "distance": null,
+                    "id": 9242575506,
+                    "isleft": false,
+                    "angle": 7.846358382297197,
+                    "latitude": 37.5215323,
+                    "longitude": 126.9237668
+                },
+                {
+                    "distance": null,
+                    "id": 9242575506,
+                    "isleft": false,
+                    "angle": 27.224736141126854,
+                    "latitude": 37.5214255,
+                    "longitude": 126.9237224
+                },
+                {
+                    "distance": null,
+                    "id": 4744225596,
+                    "isleft": false,
+                    "angle": 77.99860325201672,
+                    "latitude": 37.5212976,
+                    "longitude": 126.9236473
+                },
+                {
+                    "distance": null,
+                    "id": 2452999789,
+                    "isleft": true,
+                    "angle": 47.3531074194085,
+                    "latitude": 37.5207199,
+                    "longitude": 126.9227354
+                },
+                {
+                    "distance": null,
+                    "id": 2452999789,
+                    "isleft": false,
+                    "angle": 132.4128570197869,
+                    "latitude": 37.5221642,
+                    "longitude": 126.9213232
+                },
+                {
+                    "distance": null,
+                    "id": null,
+                    "isleft": false,
+                    "angle": 132.4128570197869,
+                    "latitude": 37.5217047,
+                    "longitude": 126.9200395
+                }
+            ],
+            "fullDistance": 883.484
+        },
+        {
+            "route": [
+                {
+                    "distance": null,
+                    "id": null,
+                    "isleft": true,
+                    "angle": 131.90659034237754,
+                    "latitude": 37.527131,
+                    "longitude": 126.93301
+                },
+                {
+                    "distance": null,
+                    "id": 5841489471,
+                    "isleft": true,
+                    "angle": 74.98597138172413,
+                    "latitude": 37.5271486,
+                    "longitude": 126.9331131
+                },
+                {
+                    "distance": null,
+                    "id": 5841489469,
+                    "isleft": false,
+                    "angle": 73.89362224602857,
+                    "latitude": 37.5274026,
+                    "longitude": 126.9327927
+                },
+                {
+                    "distance": null,
+                    "id": 5841489469,
+                    "isleft": true,
+                    "angle": 75.8011679843632,
+                    "latitude": 37.5271246,
+                    "longitude": 126.9324181
+                },
+                {
+                    "distance": null,
+                    "id": 5841489468,
+                    "isleft": false,
+                    "angle": 75.19342129262205,
+                    "latitude": 37.5272201,
+                    "longitude": 126.9322928
+                },
+                {
+                    "distance": null,
+                    "id": 5841489456,
+                    "isleft": false,
+                    "angle": 0.002768448695241999,
+                    "latitude": 37.5272104,
+                    "longitude": 126.9322806
+                },
+                {
+                    "distance": null,
+                    "id": 5841489456,
+                    "isleft": true,
+                    "angle": 2.326182820606639,
+                    "latitude": 37.5273941,
+                    "longitude": 126.9320342
+                },
+                {
+                    "distance": null,
+                    "id": 5988338901,
+                    "isleft": false,
+                    "angle": 5.087510763929635,
+                    "latitude": 37.5276022,
+                    "longitude": 126.9317551
+                },
+                {
+                    "distance": null,
+                    "id": 5912764334,
+                    "isleft": false,
+                    "angle": 0.6688459349304475,
+                    "latitude": 37.527737,
+                    "longitude": 126.9315581
+                },
+                {
+                    "distance": null,
+                    "id": 5912764334,
+                    "isleft": false,
+                    "angle": 22.464641753764955,
+                    "latitude": 37.5285248,
+                    "longitude": 126.9306014
+                },
+                {
+                    "distance": null,
+                    "id": 5912764334,
+                    "isleft": false,
+                    "angle": 18.60522101690035,
+                    "latitude": 37.5287093,
+                    "longitude": 126.9303826
+                },
+                {
+                    "distance": null,
+                    "id": 5912764334,
+                    "isleft": false,
+                    "angle": 5.587227790248813,
+                    "latitude": 37.5288461,
+                    "longitude": 126.9303117
+                },
+                {
+                    "distance": null,
+                    "id": 5912764334,
+                    "isleft": false,
+                    "angle": 14.684634330511999,
+                    "latitude": 37.528989,
+                    "longitude": 126.9302896
+                },
+                {
+                    "distance": null,
+                    "id": 5912764334,
+                    "isleft": true,
+                    "angle": 77.8270927855407,
+                    "latitude": 37.529198,
+                    "longitude": 126.9302779
+                },
+                {
+                    "distance": null,
+                    "id": 5209599773,
+                    "isleft": true,
+                    "angle": 6.812849142004491,
+                    "latitude": 37.5292561,
+                    "longitude": 126.9302897
+                },
+                {
+                    "distance": null,
+                    "id": 4677565759,
+                    "isleft": false,
+                    "angle": 83.88313726841199,
+                    "latitude": 37.529278,
+                    "longitude": 126.9302397
+                },
+                {
+                    "distance": null,
+                    "id": 5209609738,
+                    "isleft": true,
+                    "angle": 61.08356252240201,
+                    "latitude": 37.5290823,
+                    "longitude": 126.9290494
+                },
+                {
+                    "distance": null,
+                    "id": 9323200751,
+                    "isleft": true,
+                    "angle": 102.66513372808848,
+                    "latitude": 37.5258562,
+                    "longitude": 126.9236696
+                },
+                {
+                    "distance": null,
+                    "id": 9323200752,
+                    "isleft": true,
+                    "angle": 0.01313788243516616,
+                    "latitude": 37.5246251,
+                    "longitude": 126.9217346
+                },
+                {
+                    "distance": null,
+                    "id": 9323200753,
+                    "isleft": true,
+                    "angle": 0.005067364382470204,
+                    "latitude": 37.5244721,
+                    "longitude": 126.9218883
+                },
+                {
+                    "distance": null,
+                    "id": 9323200754,
+                    "isleft": true,
+                    "angle": 75.49597811869437,
+                    "latitude": 37.5243331,
+                    "longitude": 126.922028
+                },
+                {
+                    "distance": null,
+                    "id": 9323200754,
+                    "isleft": false,
+                    "angle": 75.02138379630625,
+                    "latitude": 37.5242372,
+                    "longitude": 126.9221244
+                },
+                {
+                    "distance": null,
+                    "id": 9323200744,
+                    "isleft": true,
+                    "angle": 0.001800041372357083,
+                    "latitude": 37.5241093,
+                    "longitude": 126.9225406
+                },
+                {
+                    "distance": null,
+                    "id": 9323200743,
+                    "isleft": false,
+                    "angle": 0.0027444933335845083,
+                    "latitude": 37.5239495,
+                    "longitude": 126.9222672
+                },
+                {
+                    "distance": null,
+                    "id": 9323200726,
+                    "isleft": true,
+                    "angle": 144.92147707573812,
+                    "latitude": 37.5237182,
+                    "longitude": 126.9218715
+                },
+                {
+                    "distance": null,
+                    "id": 9323200727,
+                    "isleft": false,
+                    "angle": 145.16561177689556,
+                    "latitude": 37.523521,
+                    "longitude": 126.9215341
+                },
+                {
+                    "distance": null,
+                    "id": 2452999789,
+                    "isleft": false,
+                    "angle": 132.4128570197869,
+                    "latitude": 37.5229494,
+                    "longitude": 126.9205617
+                },
+                {
+                    "distance": null,
+                    "id": 2452999789,
+                    "isleft": false,
+                    "angle": 132.4128570197869,
+                    "latitude": 37.5221642,
+                    "longitude": 126.9213232
+                },
+                {
+                    "distance": null,
+                    "id": null,
+                    "isleft": false,
+                    "angle": 132.4128570197869,
+                    "latitude": 37.5217047,
+                    "longitude": 126.9200395
+                }
+            ],
+            "fullDistance": 1069.3167
+        }
+    ]
+}
