@@ -3,11 +3,14 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [💡 Introduction](#-introduction)
-- [📱 Key Features](#-key-features)
-- [🔧 Getting Started](#-getting-started)
-- [📦 Packages](#-packages)
-- [🔗 Link to Other Parts](#-link-to-other-parts)
+- [🚴 LuckyBikey - Frontend](#-luckybikey---frontend)
+  - [💡 Introduction](#-introduction)
+  - [📱 Key Features](#-key-features)
+  - [🔧 Getting Started](#-getting-started)
+    - [⚙️ Prerequisites](#️-prerequisites)
+    - [🚀 Run the App](#-run-the-app)
+  - [📦 Packages](#-packages)
+  - [🔗 Link to Other Parts](#-link-to-other-parts)
 
  
  
@@ -27,6 +30,7 @@ This is the **Flutter-based mobile application** of LuckyBikey, a personalized b
 - 🤖 Gemini-powered AI destination suggestions  
 - 🛴 Integration with shared bike services (e.g. 따릉이)  
 - 📷 Screenshot sharing & route result saving
+- 🗣️ TTS for voice-guided navigation
 
 <br>
 
@@ -80,4 +84,3 @@ If you want to explore other parts, feel free to navigate to:
 
 - [Main Project Repository](https://github.com/jjoing/Luckybikey-APAC-Solution-Challenge-2025.git)
 - [Server Development](https://github.com/JoonkyuJang/Luckybikey-server)
-
