@@ -4,12 +4,12 @@
 <summary>Table of Contents</summary>
 
 - [🚲 Luckybikey](#-luckybikey)
-  - [💡 Introduction](#-introduction)
-  - [🚀 How to run our code](#-how-to-run-our-code)
-  - [📦 Packages](#-packages)
-  - [🛳 User Guide](#-user-guide)
-  - [🛠 Project Architecture](#-project-architecture)
-  - [🤝 Contributors](#-contributors)
+- [💡 Introduction](#-introduction)
+- [🚀 How to run our code](#-how-to-run-our-code)
+- [📦 Packages](#-packages)
+- [🛳 User Guide](#-user-guide)
+- [🛠 Project Architecture](#-project-architecture)
+- [🤝 Contributors](#-contributors)
 
  
  
@@ -54,7 +54,7 @@ Our Goal is to make **Luckybikey** as a naver map!
 
 ## 🤝 Contributors
 
-| [Yoonbin Cho](https://github.com/jjoing)                            | [Junkyu Jang](https://github.com/JoonkyuJang)                   | [Yejin Kim](https://github.com/)                       |                           |
+| [Yoonbin Cho](https://github.com/jjoing)                            | [Joonkyu Jang](https://github.com/JoonkyuJang)                   | [Yejin Kim](https://github.com/)                       |                           |
 | ----------------------------------------------------------------- |-----------------------------------------------------------------| ----------------------------------------------------------------- | ----------------------------------------------------------------- |
 | <img src="https://avatars.githubusercontent.com/u/143711988?v=4"> | <img src="https://avatars.githubusercontent.com/u/91795709?v=4"> | <img src="https://avatars.githubusercontent.com/u/69153412?v=4"> |  |
 | FE / PM                                                        | Full-stack / Leader                                             | Algorithm                                                      | |
