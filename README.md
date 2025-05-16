@@ -1,15 +1,13 @@
-## 🚲 Luckybikey
+# 🚴 LuckyBikey - Frontend
 
 <details>
 <summary>Table of Contents</summary>
 
-- [🚲 Luckybikey](#-luckybikey)
 - [💡 Introduction](#-introduction)
-- [🚀 How to run our code](#-how-to-run-our-code)
+- [📱 Key Features](#-key-features)
+- [🔧 Getting Started](#-getting-started)
 - [📦 Packages](#-packages)
-- [🛳 User Guide](#-user-guide)
-- [🛠 Project Architecture](#-project-architecture)
-- [🤝 Contributors](#-contributors)
+- [🔗 Link to Other Parts](#-link-to-other-parts)
 
  
  
@@ -17,44 +15,69 @@
 
 ## 💡 Introduction
 
-**Luckybikey** is a bicycle route finding application that tells users of bike routes that reflect their tastes. We receive the user's tastes in advance and reflect it in the algorithm to find the bike path. We also help users find their way by reflecting that stop if they use a shared bike like "따릉이". Our application is for everyone who uses bicycles based on android phone.
+This is the **Flutter-based mobile application** of LuckyBikey, a personalized bicycle route recommender for urban sustainability.
 
-Our problem statement is that when we use bicycles as transportation, the user is under a variety of stresses. Cycling has been hindered by many environmental facotrs, such as the location of shared bycycle stops, the presence or absenece of bicylce paths, uphill paths and else. So, we tried to solve this problem by providing a customized route by receiving user preferences such as uphill preference, whether or not to use shared bicycles and else. 
+<br>
 
-Our Goal is to make **Luckybikey** as a naver map!
+## 📱 Key Features
 
+- 🔐 Google & Kakao Login Integration  
+- 🧭 Personalized Route Recommendation based on user preference  
+- 🗺️ Naver Map integration for real-time cycling routes  
+- 🤖 Gemini-powered AI destination suggestions  
+- 🛴 Integration with shared bike services (e.g. 따릉이)  
+- 📷 Screenshot sharing & route result saving
 
-## 🚀 How to run our code
+<br>
 
+## 🔧 Getting Started
+
+### ⚙️ Prerequisites
+- Flutter SDK (version >= 3.10.0)
+- Android Studio / VSCode
+- Naver Cloud Platform API key for map access
+- Firebase project set up with Auth & Firestore
+
+### 🚀 Run the App
+
+Download our APK file here: [Download APK](https://drive.google.com/file/d/1rxAWtahSjyerxTiMYMMgJ46R-NAyCovx/view?usp=sharing)
+
+<br>
 
 ## 📦 Packages
-- [Animated_Splash_Screen](https://pub.dev/packages/animated_splash_screen)
+
+- [cupertino_icons](https://pub.dev/packages/cupertino_icons)
+- [firebase_core](https://pub.dev/packages/firebase_core)
 - [flutter_naver_map](https://pub.dev/packages/flutter_naver_map)
-- [permission_handler](https://pub.dev/packages/permission_handler)
-- [provider](https://pub.dev/packages/provider)
-- [firebase_auth](https://pub.dev/packages/firebase_auth)
-- [cloud_functions](https://pub.dev/packegs/cloud_functions)
+- [kakao_flutter_sdk](https://pub.dev/packages/kakao_flutter_sdk)
+- [animated_splash_screen](https://pub.dev/packages/animated_splash_screen)
 - [flutter_tts](https://pub.dev/packages/flutter_tts)
-- [shared_preferences](https://pub.dev/packages/shared_preferences)
 - [permission_handler](https://pub.dev/packages/permission_handler)
-- [kakao_flutter_sdk](https://pub.dev/packages/kakado_flutter_sdk)
+- [firebase_auth](https://pub.dev/packages/firebase_auth)
+- [cloud_firestore](https://pub.dev/packages/cloud_firestore)
+- [provider](https://pub.dev/packages/provider)
+- [geolocator](https://pub.dev/packages/geolocator)
+- [cloud_functions](https://pub.dev/packages/cloud_functions)
+- [http](https://pub.dev/packages/http)
 - [screenshot](https://pub.dev/packages/screenshot)
 - [path_provider](https://pub.dev/packages/path_provider)
-- [image_gallery_saver](https://pub.dev/packages/image_gallery_saver)
-- [url_launcher](https://pub.dev/packages/url_launcher)
-- [geolocator](https://pub.dev/packages/geolocator)
+- [shared_preferences](https://pub.dev/packages/shared_preferences)
+- [flutter_ai_toolkit](https://pub.dev/packages/flutter_ai_toolkit)
+- [firebase_vertexai](https://pub.dev/packages/firebase_vertexai)
+- [image_gallery_saver_plus](https://pub.dev/packages/image_gallery_saver_plus)
+- [latlng](https://pub.dev/packages/latlng)
+- [flutter_gemini](https://pub.dev/packages/flutter_gemini)
+- [google_maps](https://pub.dev/packages/google_maps)
+- [google_maps_flutter](https://pub.dev/packages/google_maps_flutter)
+- [google_sign_in](https://pub.dev/packages/google_sign_in)
 
 
+<br>
 
-## 🛳 User Guide
+## 🔗 Link to Other Parts
 
-## 🛠 Project Architecture
+If you want to explore other parts, feel free to navigate to:
 
+- [Main Project Repository](https://github.com/jjoing/Luckybikey-APAC-Solution-Challenge-2025.git)
+- [Server Development](https://github.com/JoonkyuJang/Luckybikey-server)
 
-
-## 🤝 Contributors
-
-| [Yoonbin Cho](https://github.com/jjoing)                            | [Joonkyu Jang](https://github.com/JoonkyuJang)                   | [Yejin Kim](https://github.com/)                       |                           |
-| ----------------------------------------------------------------- |-----------------------------------------------------------------| ----------------------------------------------------------------- | ----------------------------------------------------------------- |
-| <img src="https://avatars.githubusercontent.com/u/143711988?v=4"> | <img src="https://avatars.githubusercontent.com/u/91795709?v=4"> | <img src="https://avatars.githubusercontent.com/u/69153412?v=4"> |  |
-| FE / PM                                                        | Full-stack / Leader                                             | Algorithm                                                      | |
